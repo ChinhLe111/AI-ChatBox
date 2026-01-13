@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.venv/
+
+# Environment
+.env
+
+# AI / ML
+*.pt
+*.pth
+*.h5
+*.onnx
+data/
+datasets/
+
+# IDE
+.vscode/
+.idea/
